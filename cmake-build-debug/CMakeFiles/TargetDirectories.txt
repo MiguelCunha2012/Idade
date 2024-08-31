@@ -1,0 +1,3 @@
+C:/Users/migue/OneDrive/Desktop/Projects/C/Idade/cmake-build-debug/CMakeFiles/Idade.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Idade/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/migue/OneDrive/Desktop/Projects/C/Idade/cmake-build-debug/CMakeFiles/rebuild_cache.dir
